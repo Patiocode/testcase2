@@ -1,0 +1,36 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite" // or "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model GeneratedCode {
+  id        String   @id @default(cuid())
+  title     String?
+  htmlCode  String
+  cssCode   String?
+  jsCode    String?
+  type      String   // "tabs", "accordion", "escape-room", etc.
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("generated_codes")
+}
+
+// Add more models based on your chosen scenario
+model GameSession {
+  id        String   @id @default(cuid())
+  type      String   // "escape-room" or "court-room"
+  score     Int?
+  completed Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("game_sessions")
+}

@@ -1,0 +1,46 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]: "20963798"
+      - navigation [ref=e5]:
+        - button "Home" [ref=e6]
+        - button "About" [ref=e7]
+        - button "Escape Room" [ref=e8]
+        - button "Coding Races" [ref=e9]
+        - button "Court Room" [ref=e10]
+      - button [ref=e12]:
+        - img
+    - main [ref=e14]:
+      - generic [ref=e15]:
+        - heading "HTML5 Code Generator" [level=1] [ref=e16]
+        - generic [ref=e17]:
+          - heading "Generated Code" [level=2] [ref=e18]
+          - generic [ref=e20]: "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Test Code 1760943918529</title> <style> body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #ffffff; color: #333; } .container { max-width: 800px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); } h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; } </style> </head> <body> <div class=\"container\"> <h1>Test Code 1760943918529</h1> <p>Database test content</p> <button onclick=\"alert('This button works!')\">Click Me</button> </div> <script> document.addEventListener('DOMContentLoaded', function() { console.log('Page loaded successfully!'); }); </script> </body> </html>"
+          - generic [ref=e21]:
+            - button "Copy Code" [ref=e22]
+            - button "Download HTML File" [ref=e23]
+        - generic [ref=e24]:
+          - heading "Website Generator" [level=2] [ref=e25]
+          - generic [ref=e26]:
+            - generic [ref=e27]:
+              - text: Title
+              - textbox [ref=e28]: Test Code 1760943918529
+            - generic [ref=e29]:
+              - text: Background Color
+              - textbox [ref=e30]: "#ffffff"
+          - generic [ref=e31]:
+            - text: Content
+            - textbox [ref=e32]: Database test content
+          - generic [ref=e33]:
+            - text: Custom JavaScript
+            - textbox [ref=e34]: "document.addEventListener('DOMContentLoaded', function() { console.log('Page loaded successfully!'); });"
+          - generic [ref=e35]:
+            - button "Generate Code" [ref=e36]
+            - button "Generate & Download" [ref=e37]
+    - contentinfo [ref=e38]:
+      - paragraph [ref=e39]: © 2025 Patrick Daglas, 20963798, 10/20/2025
+  - alert [ref=e40]
+```

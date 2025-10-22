@@ -1,0 +1,129 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --header-bg: #f3f4f6;
+  --footer-bg: #f3f4f6;
+  --code-bg: #f8f9fa;
+  --border-color: #e5e7eb;
+  --active-tab-color: #3b82f6;
+}
+
+[data-theme="dark"] {
+  --bg-color: #1f2937;
+  --text-color: #f3f4f6;
+  --header-bg: #111827;
+  --footer-bg: #111827;
+  --code-bg: #374151;
+  --border-color: #4b5563;
+  --active-tab-color: #60a5fa;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.code-output {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border-color);
+}
+
+.mobile-menu {
+  transform: translateX(-100%);
+  transition: transform 0.3s ease-in-out;
+}
+
+.mobile-menu.open {
+  transform: translateX(0);
+}
+
+.tab-active {
+  color: var(--active-tab-color);
+  font-weight: bold;
+  border-bottom: 2px solid var(--active-tab-color);
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+.download-btn {
+  background-color: #10b981;
+}
+
+.download-btn:hover {
+  background-color: #059669;
+}
+
+.notification {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  color: white;
+  opacity: 0;
+  transform: translateY(100%);
+  transition: opacity 0.3s, transform 0.3s;
+  z-index: 1000;
+}
+
+.notification.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.notification.success {
+  background-color: #10b981;
+}
+
+.notification.error {
+  background-color: #ef4444;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+  background-color: #f3f4f6;
+}
+
+.video-container iframe,
+.video-container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.video-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: #6b7280;
+  text-align: center;
+  padding: 2rem;
+}
+
+.video-placeholder i {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.video-input {
+  margin-top: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}

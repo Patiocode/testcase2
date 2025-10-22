@@ -1,0 +1,559 @@
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m ./instrumentation.js:5:12\n\u001b[31m\u001b[1mModule not found\u001b[22m\u001b[39m: Can't resolve '\u001b[32mfs\u001b[39m'\n  3 |\n  4 | // Create logs directory if it doesn't exist\n> 5 | const fs = require('fs');\n    |            ^\n  6 | if (!fs.existsSync('logs')) {\n  7 |   fs.mkdirSync('logs');\n  8 | }\n\nhttps://nextjs.org/docs/messages/module-not-found","service":"code-generator-app","timestamp":"2025-10-18T09:41:13.723Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m ./instrumentation.js:5:12\n\u001b[31m\u001b[1mModule not found\u001b[22m\u001b[39m: Can't resolve '\u001b[32mfs\u001b[39m'\n  3 |\n  4 | // Create logs directory if it doesn't exist\n> 5 | const fs = require('fs');\n    |            ^\n  6 | if (!fs.existsSync('logs')) {\n  7 |   fs.mkdirSync('logs');\n  8 | }\n\nhttps://nextjs.org/docs/messages/module-not-found","service":"code-generator-app","timestamp":"2025-10-18T09:43:32.521Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.132Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.133Z"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.219Z"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.219Z"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.256Z"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.256Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.287Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.287Z"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.316Z"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.317Z"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.368Z"}
+{"level":"error","message":"Error: ENOENT: no such file or directory, open 'C:\\Users\\PAT\\OneDrive\\Desktop\\Asessment2\\my-app\\.next\\routes-manifest.json'","service":"code-generator-app","timestamp":"2025-10-18T09:45:10.368Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.293Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.294Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.303Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.309Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.304Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.309Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.323Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.324Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.330Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.338Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.331Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.338Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.354Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.354Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.361Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.367Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.361Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.367Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.437Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.437Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.442Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.450Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.442Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.451Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.462Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.463Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.470Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.478Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.470Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.478Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.494Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.494Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.501Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.505Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.501Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:11.506Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m ./instrumentation.js:5:12\n\u001b[31m\u001b[1mModule not found\u001b[22m\u001b[39m: Can't resolve '\u001b[32mfs\u001b[39m'\n  3 |\n  4 | // Create logs directory if it doesn't exist\n> 5 | const fs = require('fs');\n    |            ^\n  6 | if (!fs.existsSync('logs')) {\n  7 |   fs.mkdirSync('logs');\n  8 | }\n\nhttps://nextjs.org/docs/messages/module-not-found","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.015Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.411Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.412Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.420Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.426Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.420Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.426Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.435Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.435Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.439Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.443Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.439Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.443Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.452Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.452Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.455Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.459Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.456Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.459Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.536Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.537Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.541Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.544Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.541Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.544Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.553Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.553Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.557Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.561Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.558Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.561Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.571Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.571Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.577Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.582Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.577Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:12.582Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.489Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.489Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.495Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.499Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.495Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.499Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.508Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.509Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.512Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.516Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.512Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.516Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.525Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.525Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.528Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.528Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.531Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.531Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.610Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.610Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.615Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.618Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.615Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.618Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.628Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.628Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.632Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.632Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.636Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.637Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.645Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.645Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.649Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.649Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.653Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:13.653Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.560Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.560Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.564Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.568Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.564Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.568Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.579Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.579Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.582Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.587Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.582Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.587Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.596Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.596Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.600Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.600Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.604Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.604Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.684Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.684Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.689Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.693Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.689Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.693Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.703Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.703Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.706Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.710Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.707Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.710Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.719Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.719Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.722Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.726Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.722Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:14.726Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.624Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.624Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.628Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.633Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.628Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.633Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.642Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.643Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.648Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.648Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.653Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.653Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.663Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.663Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.666Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.667Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.670Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.670Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.752Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.752Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.758Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.766Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.759Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.766Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.780Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.780Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.785Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.789Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.785Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.789Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.798Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.798Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.801Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.804Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.801Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:15.804Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.708Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.708Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.714Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.721Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.715Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.721Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.732Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.732Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.738Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.742Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.738Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.742Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.750Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.750Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.755Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.757Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.755Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.758Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.845Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.846Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.854Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.861Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.854Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.861Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.877Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.878Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.886Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.891Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.885Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.890Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.902Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.902Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.906Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.909Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.906Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:16.909Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.792Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.793Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.797Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.801Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.798Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.801Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.811Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.811Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.815Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.819Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.815Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.819Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.827Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.828Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.831Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.834Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.831Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.834Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.932Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.932Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.939Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.944Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.939Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.944Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.953Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.954Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.957Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.962Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.958Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.962Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.970Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.970Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.973Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.977Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.974Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:17.977Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.877Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.878Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.885Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.890Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.885Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.891Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.900Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.900Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.905Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.909Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.905Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.909Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.917Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.917Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.920Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.924Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.920Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:18.924Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.018Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.019Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.027Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.035Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.028Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.036Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.049Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.049Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.055Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.058Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.055Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.059Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.070Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.070Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.081Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.081Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.084Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.084Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.974Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.975Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.983Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.990Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.983Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:19.991Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.002Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.002Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.009Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.014Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.009Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.014Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.026Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.026Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.030Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.034Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.030Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.034Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.129Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.130Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.136Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.140Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.136Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.140Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.149Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.149Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.152Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.152Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.156Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.156Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.163Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.163Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.166Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.166Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.170Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:20.170Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.070Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.070Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.077Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.082Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.077Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.082Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.091Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.091Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.094Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.097Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.094Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.097Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.105Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.105Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.108Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.111Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.108Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.111Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.211Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.212Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.218Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.223Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.218Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.223Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.234Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.235Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.240Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.240Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.244Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.244Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.257Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.257Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.261Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.265Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.261Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:21.265Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.154Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.154Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.161Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.165Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.161Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.165Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.176Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.177Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.181Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.186Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.181Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.186Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.201Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.201Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.209Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.217Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.209Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.217Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.291Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.291Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.296Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.300Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.296Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.301Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.318Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.319Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.323Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.328Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.323Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.328Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.336Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.336Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.339Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.343Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.339Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:22.343Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.258Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.259Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.267Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.275Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.267Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.275Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.288Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.288Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.295Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.300Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.295Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.300Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.325Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.326Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.334Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.341Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.334Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.341Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.374Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.374Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.380Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.386Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.380Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.386Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.404Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.405Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.412Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.412Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.417Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.417Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.433Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.434Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.439Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.444Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.439Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:23.444Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.387Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.388Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.396Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.406Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.396Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.406Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.420Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.420Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.424Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.428Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.425Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.428Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.441Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.441Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.444Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.448Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.444Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.448Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.472Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.472Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.476Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.479Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.476Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.479Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.487Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.487Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.492Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.495Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.492Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.495Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.508Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.509Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.512Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.516Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.512Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:24.516Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.495Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.496Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.503Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.509Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.504Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.509Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.520Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.520Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.524Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.527Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.524Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.527Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.541Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.541Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.546Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.551Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.546Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.551Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.573Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.573Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.578Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.583Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.579Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.584Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.595Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.595Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.600Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.604Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.600Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.604Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.618Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.619Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.625Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.632Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.625Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:25.632Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.590Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.590Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.598Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.605Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.599Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.605Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.618Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.619Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.624Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.628Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.624Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.628Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.641Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.642Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.646Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.646Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.649Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.649Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.668Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.668Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.672Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.677Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.672Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.678Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.688Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.688Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.693Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.698Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.694Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.699Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.714Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.715Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.720Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.725Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.720Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading '/_app')","service":"code-generator-app","timestamp":"2025-10-18T09:45:26.726Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m ./node_modules/@colors/colors/lib/system/supports-colors.js:28:1\n\u001b[31m\u001b[1mModule not found\u001b[22m\u001b[39m: Can't resolve '\u001b[32mos\u001b[39m'\n  26 | 'use strict';\n  27 |\n> 28 | var os = require('os');\n     | ^\n  29 | var hasFlag = require('./has-flag.js');\n  30 |\n  31 | var env = process.env;\n\nhttps://nextjs.org/docs/messages/module-not-found\n\nImport trace for requested module:\n./node_modules/@colors/colors/lib/colors.js\n./node_modules/@colors/colors/safe.js\n./node_modules/logform/dist/colorize.js\n./node_modules/logform/dist/browser.js\n./node_modules/winston/dist/winston.js\n./instrumentation.js","service":"code-generator-app","timestamp":"2025-10-18T10:02:06.103Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m ./node_modules/@colors/colors/lib/system/supports-colors.js:28:1\n\u001b[31m\u001b[1mModule not found\u001b[22m\u001b[39m: Can't resolve '\u001b[32mos\u001b[39m'\n\u001b[0m \u001b[90m 26 |\u001b[39m \u001b[32m'use strict'\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 27 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 28 |\u001b[39m \u001b[36mvar\u001b[39m os \u001b[33m=\u001b[39m require(\u001b[32m'os'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 29 |\u001b[39m \u001b[36mvar\u001b[39m hasFlag \u001b[33m=\u001b[39m require(\u001b[32m'./has-flag.js'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 30 |\u001b[39m\n \u001b[90m 31 |\u001b[39m \u001b[36mvar\u001b[39m env \u001b[33m=\u001b[39m process\u001b[33m.\u001b[39menv\u001b[33m;\u001b[39m\u001b[0m\n\nhttps://nextjs.org/docs/messages/module-not-found\n\nImport trace for requested module:\n./node_modules/@colors/colors/lib/colors.js\n./node_modules/@colors/colors/safe.js\n./node_modules/logform/dist/colorize.js\n./node_modules/logform/dist/browser.js\n./node_modules/winston/dist/winston.js\n./instrumentation.js","service":"code-generator-app","timestamp":"2025-10-20T02:34:20.253Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m ./node_modules/@colors/colors/lib/system/supports-colors.js:28:1\n\u001b[31m\u001b[1mModule not found\u001b[22m\u001b[39m: Can't resolve '\u001b[32mos\u001b[39m'\n\u001b[0m \u001b[90m 26 |\u001b[39m \u001b[32m'use strict'\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 27 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 28 |\u001b[39m \u001b[36mvar\u001b[39m os \u001b[33m=\u001b[39m require(\u001b[32m'os'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 29 |\u001b[39m \u001b[36mvar\u001b[39m hasFlag \u001b[33m=\u001b[39m require(\u001b[32m'./has-flag.js'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 30 |\u001b[39m\n \u001b[90m 31 |\u001b[39m \u001b[36mvar\u001b[39m env \u001b[33m=\u001b[39m process\u001b[33m.\u001b[39menv\u001b[33m;\u001b[39m\u001b[0m\n\nhttps://nextjs.org/docs/messages/module-not-found\n\nImport trace for requested module:\n./node_modules/@colors/colors/lib/colors.js\n./node_modules/@colors/colors/safe.js\n./node_modules/logform/dist/colorize.js\n./node_modules/logform/dist/browser.js\n./node_modules/winston/dist/winston.js\n./instrumentation.js","service":"code-generator-app","timestamp":"2025-10-20T02:36:36.888Z"}
+{"level":"error","message":" \u001b[31m\u001b[1m⨯\u001b[22m\u001b[39m ./node_modules/@colors/colors/lib/system/supports-colors.js:28:1\n\u001b[31m\u001b[1mModule not found\u001b[22m\u001b[39m: Can't resolve '\u001b[32mos\u001b[39m'\n\u001b[0m \u001b[90m 26 |\u001b[39m \u001b[32m'use strict'\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 27 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 28 |\u001b[39m \u001b[36mvar\u001b[39m os \u001b[33m=\u001b[39m require(\u001b[32m'os'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 29 |\u001b[39m \u001b[36mvar\u001b[39m hasFlag \u001b[33m=\u001b[39m require(\u001b[32m'./has-flag.js'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 30 |\u001b[39m\n \u001b[90m 31 |\u001b[39m \u001b[36mvar\u001b[39m env \u001b[33m=\u001b[39m process\u001b[33m.\u001b[39menv\u001b[33m;\u001b[39m\u001b[0m\n\nhttps://nextjs.org/docs/messages/module-not-found\n\nImport trace for requested module:\n./node_modules/@colors/colors/lib/colors.js\n./node_modules/@colors/colors/safe.js\n./node_modules/logform/dist/colorize.js\n./node_modules/logform/dist/browser.js\n./node_modules/winston/dist/winston.js\n./instrumentation.js","service":"code-generator-app","timestamp":"2025-10-20T02:43:40.735Z"}
