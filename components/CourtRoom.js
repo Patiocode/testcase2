@@ -33,7 +33,7 @@ export default function CourtRoom() {
   // Family messages
   const familyMessageQueue = [
     "Can you pick up the kids after work?",
-    "Don't forget about dinner plans",
+    "Don&apos;t forget about dinner plans",
     "When will you be home?",
     "The kids have a school event tomorrow",
     "We need to talk about our vacation plans"
@@ -293,12 +293,12 @@ export default function CourtRoom() {
                   </div>
                   {currentFine.consequence === 'Bankruptcy' && (
                     <p className="text-red-400 font-semibold">
-                      Your company has been declared bankrupt! No one can use your app and you won't get paid.
+                      Your company has been declared bankrupt! No one can use your app and you won&apos;t get paid.
                     </p>
                   )}
                   {currentFine.consequence === 'Laws of Tort' && (
                     <p className="text-red-400 font-semibold">
-                      You were hacked and knew about the vulnerability but didn't fix it!
+                      You were hacked and knew about the vulnerability but didn&apos;t fix it!
                     </p>
                   )}
                   {currentFine.consequence === 'Disability Act' && (
@@ -325,7 +325,7 @@ export default function CourtRoom() {
           <ul className="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300">
             <li>Set a timer and start debugging</li>
             <li>Fix issues as they appear to avoid consequences</li>
-            <li>You'll receive messages from your boss and family</li>
+            <li>You&apos;ll receive messages from your boss and family</li>
             <li>If you ignore an issue for 2 minutes, it becomes urgent</li>
             <li>If you ignore an urgent issue for 2 more minutes, you go to court</li>
             <li>Different issues have different legal consequences</li>
