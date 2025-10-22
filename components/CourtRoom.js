@@ -8,7 +8,6 @@ export default function CourtRoom() {
   const [messages, setMessages] = useState([])
   const [bossMessages, setBossMessages] = useState([])
   const [familyMessages, setFamilyMessages] = useState([])
-  const [urgentIssues, setUrgentIssues] = useState([])
   const [currentFine, setCurrentFine] = useState(null)
   const timerRef = useRef(null)
 
@@ -91,7 +90,6 @@ export default function CourtRoom() {
         setMessages(prev => prev.map(msg => 
           msg.id === message.id ? { ...msg, urgent: true, description: `URGENT: ${msg.description}` } : msg
         ))
-        setUrgentIssues(prev => [...prev, message.id])
       }
 
       // Check for very urgent issues (2 more minutes after urgent)
@@ -110,22 +108,20 @@ export default function CourtRoom() {
       }
     })
 
-  }, [timer, isRunning, messages])
+  }, [timer, isRunning, messages, bossMessageQueue, familyMessageQueue, possibleIssues])
 
-  const startTimer = (minutes) => {
+  const startTimer = () => {
     setTimer(0)
     setIsRunning(true)
     setMessages([])
     setBossMessages([])
     setFamilyMessages([])
-    setUrgentIssues([])
     setStage('work')
     setCurrentFine(null)
   }
 
   const fixIssue = (issueId) => {
     setMessages(prev => prev.filter(msg => msg.id !== issueId))
-    setUrgentIssues(prev => prev.filter(id => id !== issueId))
   }
 
   const formatTime = (seconds) => {
@@ -140,7 +136,6 @@ export default function CourtRoom() {
     setMessages([])
     setBossMessages([])
     setFamilyMessages([])
-    setUrgentIssues([])
     setStage('work')
     setCurrentFine(null)
   }
