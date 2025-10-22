@@ -250,7 +250,7 @@ export default function EscapeRoom() {
                   Fix the code formatting. Rewrite it with proper indentation and structure:
                 </p>
                 <div className="bg-gray-100 dark:bg-gray-700 p-4 rounded mb-4 text-gray-800 dark:text-yellow-300 text-sm font-mono border border-gray-300 dark:border-gray-600">
-                  function greet(name){'{'}return "Hello, " + name;{'}'}
+                  function greet(name){'{'}return &quot;Hello, &quot; + name;{'}'}
                 </div>
                 <textarea
                   value={formattedCode}
@@ -317,7 +317,7 @@ export default function EscapeRoom() {
             {stage === 3 && (
               <div>
                 <p className="text-gray-700 dark:text-gray-300 mb-4">
-                  Convert CSV data to JSON. The input is: "John,30,john@example.com"
+                  Convert CSV data to JSON. The input is: &quot;John,30,john@example.com&quot;
                 </p>
                 <p className="text-gray-600 dark:text-gray-400 text-sm mb-4">
                   Expected output: {'{'}name: &apos;John&apos;, age: 30, email: &apos;john@example.com&apos;{'}'}
