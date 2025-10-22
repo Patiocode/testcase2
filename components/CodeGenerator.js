@@ -77,7 +77,7 @@ export default function CodeGenerator() {
   const saveToDatabase = async () => {
     setSaving(true)
     try {
-      const code = generateCode() // Ensure we have the latest code
+      const code = generateCode() 
       
       const response = await fetch('/api/codes', {
         method: 'POST',
@@ -130,7 +130,7 @@ export default function CodeGenerator() {
         
         if (response.ok) {
           alert('Code deleted successfully!')
-          loadSavedCodes() // Refresh the list
+          loadSavedCodes() 
         } else {
           alert('Failed to delete code')
         }
@@ -165,7 +165,7 @@ export default function CodeGenerator() {
 
   const handleGenerate = () => {
     generateCode()
-    // Save to localStorage instead of cookies
+    
     if (typeof window !== 'undefined') {
       localStorage.setItem('pageTitle', title)
       localStorage.setItem('pageContent', content)
