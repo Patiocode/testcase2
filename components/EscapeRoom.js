@@ -39,7 +39,7 @@ export default function EscapeRoom() {
       interval = setInterval(() => setTimeSeconds(t => t - 1), 1000)
     } else if (timeSeconds === 0) {
       setTimerRunning(false)
-      setFeedback('⏰ Time\'s up! Game Over!')
+      setFeedback('⏰ Time&apos;s up! Game Over!')
     }
     return () => clearInterval(interval)
   }, [timerRunning, timeSeconds])
@@ -320,7 +320,7 @@ export default function EscapeRoom() {
                   Convert CSV data to JSON. The input is: "John,30,john@example.com"
                 </p>
                 <p className="text-gray-600 dark:text-gray-400 text-sm mb-4">
-                  Expected output: {'{'}name: 'John', age: 30, email: 'john@example.com'{'}'}
+                  Expected output: {'{'}name: &apos;John&apos;, age: 30, email: &apos;john@example.com&apos;{'}'}
                 </p>
                 <textarea
                   value={conversionCode}
